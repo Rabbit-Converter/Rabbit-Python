@@ -1,6 +1,6 @@
 # Rabbit-Python
 
-Rabbit in Python
+Another Zawgyi <=> Unicode Converter as a Python module. Written in [Python](https://www.python.org).
 
 ## Installation
 
