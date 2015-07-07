@@ -1,4 +1,4 @@
-# encoding: utf-8
+# -*- coding: utf-8 -*-
 # Rabbit-Converter/Rabbit-Python
 # Zawgyi <-> Unicode converter for Myanmar language
 
