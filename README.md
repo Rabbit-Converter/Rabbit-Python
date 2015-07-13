@@ -1,5 +1,7 @@
 # Rabbit-Python
 
+[![Build Status](https://travis-ci.org/Rabbit-Converter/Rabbit-Python.svg?branch=master)](https://travis-ci.org/Rabbit-Converter/Rabbit-Python)
+
 Another Zawgyi <=> Unicode Converter as a Python module. Written in [Python](https://www.python.org).
 
 Current minimum requirements: Python 2.7.x or 3.3+
