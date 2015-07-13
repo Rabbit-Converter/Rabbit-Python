@@ -2,6 +2,8 @@
 
 Another Zawgyi <=> Unicode Converter as a Python module. Written in [Python](https://www.python.org).
 
+Current minimum requirements: Python 2.7.x or 3.3+
+
 ## Installation
 
 You can include rabbit.py directly:
